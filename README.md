@@ -1,6 +1,6 @@
 # TE-dispersion-metric
 
-**Aim: **
+**Aim:**
 To measure the degree to which repetitive elements are clustered or dispersed within a chromosome.
 It has been widely observed that large genomic islands of repetative sequences (transposons etc) comprise 
 isolate specific regions in fungal genomes and often contain virulence determinants. Similarly, many fungal
